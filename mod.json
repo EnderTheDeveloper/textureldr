@@ -4,6 +4,7 @@
 	"gd": {
 		"win": "2.204",
 		"android": "*",
+		"ios": "*",
 		"mac": "2.200"
 	},
 	"id": "geode.texture-loader",
